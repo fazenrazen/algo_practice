@@ -38,5 +38,9 @@ Chapter 1 Exercises (NOT CHECKED)
 1.5: O(n) worst case senario, the person can be the last item
 1.6: You find all people w A's in the list so O(n), worst case the list can be all A's
 
+Summary: 
+Binary Search is way faster than a Simple Search, and is not dependent on the time.
+
+
 """        
         
