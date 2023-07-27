@@ -11,13 +11,16 @@ Con: Have to go through one by one
 Array  
 Read/Find   O(1)  
 Insertion   O(n)
+Deletion    O(n)
 
 Linked List
 Read/Find   O(n)
 Insertion   O(1)
+Deletion    O(1)
 
 Chapter 2 Excerises (NOT CHECKED)
-
+2.1: I would implement a linked list cause I want to add up the sums and
+    not find or read anything from my list of finances. 
 
 
 """
